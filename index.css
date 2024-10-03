@@ -60,7 +60,7 @@
 
   /* Hero Section */
   .hero {
-    background: url(/images/WhatsApp\ Image\ 2024-09-28\ at\ 5.08.50\ AM.jpeg) center rgba(0, 0, 0, 0.349)  ;
+    background: url(images/WhatsApp\ Image\ 2024-09-28\ at\ 5.08.50\ AM.jpeg) center rgba(0, 0, 0, 0.349)  ;
     background-blend-mode: soft-light;
     background-size: cover;
     height: 100%;
@@ -234,7 +234,7 @@
     margin-bottom: 2vw;
   }
   .every-contribution{
-    background: url(/images/volunteer.jpeg) rgb(6, 6, 27) ;
+    background: url(images/volunteer.jpeg) rgb(6, 6, 27) ;
     background-size: cover;
     color: white;
     height: 100vh;
